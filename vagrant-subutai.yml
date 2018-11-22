@@ -1,0 +1,4 @@
+BAZAAR_EMAIL: 'bazaar@email'
+SUBUTAI_NAME: 'peername'
+SUBUTAI_PASSWORD: 'peerpassword'
+USER_VARIABLES: {"domainName": "wordpresss.envs.master.subut.ai"}
