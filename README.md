@@ -1,5 +1,5 @@
 # Wordpress blueprint provisioning
-If you would need a running wordpress on your machine, you don't have to necessarily register a peer into bazaar. There is a way to bring it up directly in your machine. This wiki page will be guiding you through the process. 
+If you would need a running wordpress on your machine, you don't have to necessarily register a peer to bazaar. There is a way to bring it up directly in your machine. This wiki page will be guiding you through the process. 
 
 Blueprint provisioning can be implemented via [Vagrant](https://www.vagrantup.com/) and [Vagrant Subutai plugin](https://github.com/subutai-io/vagrant).
 
@@ -13,12 +13,12 @@ This is blueprint file. You can use blueprint from [here](https://github.com/sub
 
 # vagrant-subutai.yml
 
-This is user configuration parameter file. For more info you can visit this [page](https://github.com/subutai-io/vagrant/wiki/Configuration-Parameters). 
+This is user configuration parameter file. For more variables you can visit this [page](https://github.com/subutai-io/vagrant/wiki/Configuration-Parameters). 
 
 # Let's run blueprint provisioning:
-(Here [wiki](https://github.com/subutai-io/vagrant/wiki/How-to-Install-and-Use-Vagrant-Providers) about. How to Install and Use Vagrant Providers.)
+(Here is [wiki](https://github.com/subutai-io/vagrant/wiki/How-to-Install-and-Use-Vagrant-Providers) about. How to Install and Use Vagrant Providers.)
 
-If you have the subutai peer then put `Subutai.json` and `vagrant-subutai.yml` files right to the next to `Vagrantfile` file
+If you have the subutai peer, then put `Subutai.json` and `vagrant-subutai.yml` files right to the next to `Vagrantfile` file
 and execute following command:
 
 `vagrant provision`
