@@ -1,4 +1,5 @@
-BAZAAR_EMAIL: 'bazaar@email'
-SUBUTAI_NAME: 'peername'
-SUBUTAI_PASSWORD: 'peerpassword'
-USER_VARIABLES: {"domainName": "wordpresss.envs.master.subut.ai"}
+BAZAAR_EMAIL: 'set_bazaar_email'
+BAZAAR_PASSWORD: 'set_bazaar_password'
+SUBUTAI_NAME: 'set_peer_name'
+SUBUTAI_PASSWORD: 'set_peer_password'
+USER_VARIABLES: {"domainName": "wordpresss.envs.master.subut.ai", "environmentName": "Worpressenv", "siteTitle": "My Wordpress", "siteDescription": "my personal blog", "adminUser": "admin", "adminPwd": "SharedSecret", "webContainerName": "blueprintwordpress", "containerSize": "TINY"}
