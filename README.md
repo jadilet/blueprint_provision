@@ -3,7 +3,7 @@
 Blueprint provisioning via [Vagrant](https://www.vagrantup.com/) and [Vagrant Subutai plugin](https://github.com/subutai-io/vagrant).
 
 # Vagrantfile
-Box name is [subutai/stretch](https://app.vagrantup.com/subutai/boxes/stretch) (Debian based box).
+The box name is [subutai/stretch](https://app.vagrantup.com/subutai/boxes/stretch) (Debian based box).
 
 # Subutai.json
 It is blueprint file. You can use blueprint from [here](https://github.com/subutai-blueprints).
