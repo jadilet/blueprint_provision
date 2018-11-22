@@ -10,7 +10,7 @@ It is blueprint file. You can use blueprint from [here](https://github.com/subut
 
 # vagrant-subutai.yml
 
-It is user configuration parameter file. More info you can visit [here](https://github.com/subutai-io/vagrant/wiki/Configuration-Parameters). 
+It is user configuration parameter file. On this file please change blueprint user variables. More info you can visit [here](https://github.com/subutai-io/vagrant/wiki/Configuration-Parameters). 
 
 # Let's run blueprint provisioning:
 (Here [wiki](https://github.com/subutai-io/vagrant/wiki/How-to-Install-and-Use-Vagrant-Providers) about. How to Install and Use Vagrant Providers.)
