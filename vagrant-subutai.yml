@@ -3,4 +3,4 @@ BAZAAR_PASSWORD: 'set_bazaar_password'
 SUBUTAI_ENV_TYPE: 'bazaar'
 SUBUTAI_NAME: 'set_peer_name'
 SUBUTAI_PASSWORD: 'set_peer_password'
-USER_VARIABLES: {"domainName": "wordpresss.envs.master.subut.ai", "environmentName": "Worpressenv", "siteTitle": "My Wordpress", "siteDescription": "my personal blog", "adminUser": "admin", "adminPwd": "SharedSecret", "webContainerName": "blueprintwordpress", "containerSize": "TINY"}
+USER_VARIABLES: {"domainName": "wordpresss.envs.subut.ai", "environmentName": "Worpressenv", "siteTitle": "My Wordpress", "siteDescription": "my personal blog", "adminUser": "admin", "adminPwd": "SharedSecret", "webContainerName": "blueprintwordpress", "containerSize": "TINY"}
